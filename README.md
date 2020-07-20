@@ -2,6 +2,8 @@
 
 With this app you can search for github users.
 
+[Live version](https://github-api-app.netlify.app/)
+
 ## Styled Components
 
 [Styled-Components - Main Docs](https://styled-components.com/)
