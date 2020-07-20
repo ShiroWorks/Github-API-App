@@ -1,6 +1,6 @@
 ## Github API
 
-Wit this app you can search for github users.
+With this app you can search for github users.
 
 ## Styled Components
 
